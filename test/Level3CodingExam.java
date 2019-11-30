@@ -45,7 +45,7 @@ public class Level3CodingExam {
 	 * PART B
 	 * 
 	 * To complete this exercise, you need to count the number of matching entries in 2 HashMaps. 
-	 * More information about the problem is here: http://bit.ly/stanford-exam-part7
+	 * More information about the problem is here: http://bit.ly/stanford-exam-part7 
 	 * This question is part of Stanford University's CS106 final exam. **/
 	@Test
 	public void testAddMatching() throws Exception {
