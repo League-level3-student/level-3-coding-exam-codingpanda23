@@ -10,7 +10,7 @@ public Object commonKeyValuePairs(HashMap<String, String> hashmap1, HashMap<Stri
 	for (String key : hashmap1.keySet()) {
 		for (String k : hashmap2.keySet()) {
 			if (key == k) {
-				
+				return 2;
 			}
 		}
 	}
